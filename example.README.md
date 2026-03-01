@@ -7,6 +7,8 @@
 
 > **Short, punchy elevator pitch.** (e.g., *A full-stack scheduling and lead generation platform designed to eliminate calendar fragmentation for local service businesses.*)
 
+**🌐 Live Site:** [site-name](https://site-url)
+
 ---
 
 ## 📖 Table of Contents
