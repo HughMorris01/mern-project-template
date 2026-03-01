@@ -117,17 +117,14 @@
 
 Define all external services, their purpose, and the required environment variables.
 
-- **Google Maps API (Places/Geocoding)**
-  - **Purpose:** Address autocomplete and validation on frontend forms.
-  - **Implementation:** Loaded via script tag in index.html / React wrapper.
-  - **Environment Variables:** REACT_APP_GOOGLE_MAPS_KEY (Frontend .env).
-  - **Constraints:** Requires domain restriction in Google Cloud Console to prevent unauthorized use.
-- **Google reCAPTCHA (v2/v3)**
-  - **Purpose:** Spam and bot protection on submission forms.
-  - **Implementation:** Frontend widget generates a token; Backend verifies the token via POST request to Google.
-  - **Environment Variables:** REACT_APP_RECAPTCHA_SITE_KEY (Frontend), RECAPTCHA_SECRET_KEY (Backend).
-- **\[Insert API Name, e.g., Stripe, Twilio, SendGrid\]**
-  - **Purpose:** \[What does it do?\]
-  - **Implementation:** \[How is it integrated? e.g., Node SDK, REST fetch\]
-  - **Environment Variables:** \[List required keys for .env\]
-  - **Constraints:** \[e.g., Webhook setup required, Rate limits\]
+- **\[Insert API/Service Name 1\]**
+  - **Purpose:** \[What specific function does this service provide to the application?\]
+  - **Implementation:** \[How is it integrated? e.g., Frontend widget, Backend Node SDK, REST fetch\]
+  - **Environment Variables:** \[List required keys for frontend/backend .env files\]
+  - **Constraints:** \[e.g., Domain restrictions, Webhook setup required, Rate limits\]
+
+- **\[Insert API/Service Name 2\]**
+  - **Purpose:** \[What specific function does this service provide to the application?\]
+  - **Implementation:** \[How is it integrated? e.g., Frontend widget, Backend Node SDK, REST fetch\]
+  - **Environment Variables:** \[List required keys for frontend/backend .env files\]
+  - **Constraints:** \[e.g., Domain restrictions, Webhook setup required, Rate limits\]
