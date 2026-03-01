@@ -110,7 +110,7 @@ To run this project, you will need to add the following environment variables to
 Quality assurance is integrated into the development lifecycle. 
 
 * **Unit Testing:** [e.g., Jest / React Testing Library]
-* **User Acceptance Testing (UAT):** A rigorous manual testing protocol ensures all business constraints (like scheduling buffers and security rules) function flawlessly under simulated real-world conditions. 
+* **User Acceptance Testing (UAT):** A rigorous manual testing protocol ensures all business constraints function flawlessly under simulated real-world conditions. 
 
 *View the full [UAT Protocol & Evidence](./docs/03-uat-plan.md).*
 
@@ -118,11 +118,9 @@ Quality assurance is integrated into the development lifecycle.
 
 ## 📂 Project Documentation
 
-This project follows a strict Software Development Life Cycle (SDLC). Comprehensive documentation can be found in the `/docs` directory:
+This project follows a strict Software Development Life Cycle (SDLC). Comprehensive documentation, including the PRD, TDD, and architectural overviews, can be found in the `/docs` directory.
 
-1. [Product Requirements Document (PRD)](./docs/01-prd.md) - Business goals and user personas.
-2. [Technical Design Document (TDD)](./docs/02-tdd.md) - Database schemas and API routing.
-3. [UAT & Quality Assurance Plan](./docs/03-uat-plan.md) - Testing environments and sign-offs.
+👉 **[View the complete Documentation Guide](./docs/README.md)**
 
 ---
 
