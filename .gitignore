@@ -23,9 +23,10 @@ logs/
 
 # Projct Files
 *.zip
-*docx
-*pdf
-*xlsx
+*.doc
+*.docx
+*.pdf
+*.xlsx
 
 # OS Generated Files
 .DS_Store
