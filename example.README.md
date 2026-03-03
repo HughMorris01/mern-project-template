@@ -3,7 +3,7 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![Testing](https://img.shields.io/badge/UAT-Passing-success?style=for-the-badge)](#)
+[![Testing](https://img.shields.io/badge/UAT-Passing-pending?style=for-the-badge)](#)
 
 > **Short, punchy elevator pitch.** (e.g., *A full-stack scheduling and lead generation platform designed to eliminate calendar fragmentation for local service businesses.*)
 
@@ -79,7 +79,8 @@ To get a local copy up and running, follow these simple steps.
    cd ../frontend && npm install
    ```
 3. **Set up Environment Variables** (See below)
-4. **Run the development servers**
+4. **Seed Database with seeder.js** (See below)
+5. **Run the development servers**
    ```sh
    # Terminal 1 (Backend)
    npm run server
@@ -107,10 +108,12 @@ To run this project, you will need to add the following environment variables to
 
 ## 🧪 Testing & QA
 
-Quality assurance is integrated into the development lifecycle. 
+Quality assurance is integral to the River Breeze platform.
 
-* **Unit Testing:** [e.g., Jest / React Testing Library]
-* **User Acceptance Testing (UAT):** A rigorous manual testing protocol ensures all business constraints function flawlessly under simulated real-world conditions. 
+* **Manual Testing & Validation:** Every feature underwent a rigorous "test-as-you-build" phase to ensure logical consistency and UI responsiveness.
+* **User Acceptance Testing (UAT):** The platform passed a strict manual testing protocol covering algorithmic stepping, flush anchoring, and race-condition prevention.
+* **Architecture:** Modular codebase designed to support future automated integration with **Jest** and **React Testing Library**.
+
 
 *View the full [UAT Protocol & Evidence](./docs/03-uat-plan.md).*
 
@@ -126,7 +129,9 @@ This project follows a strict Software Development Life Cycle (SDLC). Comprehens
 
 ## 📞 Contact
 
-**Greg Farrell** - Full-Stack MERN Developer & QA Engineer  
-[LinkedIn Profile](https://www.linkedin.com/in/gregory-farrell) | [Portfolio Website](https://your-portfolio.com)
+**Greg Farrell** - Lead Full-Stack Engineer  
+📧 **Email:** [greg.farrell82@gmail.com](mailto:greg.farrll82@gmail.com)  
+📱 **Phone:** (585) 439-8235  
+🔗 **LinkedIn:** [linkedin.com/in/gregory-farrell](https://www.linkedin.com/in/gregory-farrell)
 
-Project Link: [https://github.com/hughmorris01/project-name](https://github.com/hughmorris01/project-name)
+Project Link: [https://github.com/hughmorris01/projectName](https://github.com/hughmorris01/projectName)

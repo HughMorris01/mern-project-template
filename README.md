@@ -61,5 +61,11 @@ A modern React application powered by **Vite**:
    npm run dev
    ```
 
-## 📜 License
-This project is open-source and available under the **ISC License**.
+## 📞 Contact
+
+**Greg Farrell** - Lead Full-Stack Engineer  
+📧 **Email:** [greg.farrell82@gmail.com](mailto:greg.farrll82@gmail.com)  
+📱 **Phone:** (585) 439-8235  
+🔗 **LinkedIn:** [linkedin.com/in/gregory-farrell](https://www.linkedin.com/in/gregory-farrell)
+
+Project Link: [https://github.com/hughmorris01/projectName](https://github.com/hughmorris01/projectName)
