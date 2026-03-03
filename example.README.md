@@ -58,6 +58,22 @@
 
 ---
 
+## 🛣️ Development Roadmap 
+
+Development is structured across strategic phases to systematically roll out critical operational pillars. The foundational MVP is currently live, with advanced administrative and scalable features actively in development:
+
+### ✅ Completed & Live
+* **Phase 1: Foundation & Core Logic:** Core MERN platform architecture, global state management, secure user authentication (JWT/OAuth), and primary database schemas. 
+
+### ⏳ In Development / Upcoming
+* **Phase 2: Third-Party Integrations:** Automated, bi-directional API integrations with external services (e.g., Payment Gateways, CRMs, or external state compliance systems).
+* **Phase 3: Dispatch & Administration:** Rollout of the **Admin Dashboard** allowing management to view active transactions, manage inventory/users, and visualize key performance metrics.
+* **Phase 4: Point of Sale / Internal Tooling:** Implementation of an internal portal connecting physical/manual sales directly to the centralized database engine.
+* **Phase 5: Advanced Feature Expansion:** Integration of complex business logic modules (e.g., dynamic routing, real-time web sockets, or automated cron jobs).
+* **Phase 6: Fleet & Mobile Operations:** Deployment of an **Offline-First PWA** (Progressive Web App) to allow field staff to execute operations and cache data without an active cellular connection.
+
+---
+
 ## 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps.
